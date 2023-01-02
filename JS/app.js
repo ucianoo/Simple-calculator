@@ -29,4 +29,4 @@ res.value = parseInt(n1.value) / parseInt(n2.value);
 //function calculate(operation) {
    // console.log(eval(String(n1.value + "+" + n2.value)))
     //res.value = eval(n1.value + operation + n2.value)
-}
+//}
